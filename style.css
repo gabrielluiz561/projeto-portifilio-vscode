@@ -1,0 +1,14 @@
+body {
+    background: url("img/WhatsApp\ Image\ 2025-09-10\ at\ 21.46.04.jpeg") no-repeat right;
+    background-size: 40%;
+    background-color: rgb(48, 139, 224);
+    color: rgb(255, 255, 255);
+    font-family: Rokkitt;
+    }
+
+    span {
+        color:rgb(255, 255, 255);
+    }
+    .enfase {
+        font-weight: bolder;
+    }
